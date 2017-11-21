@@ -31,10 +31,10 @@ b.	How could you have updated your Junit tests in some ways so that your tests w
 
 1.	Use the NIST’s combinatorial testing tool, ACTS to design some input model for the Triangle program. Get a two-way combinations from the input-model to test you program.  
 2.	Design another input model for testing the VendingMachine Program. 
-  ..*	Generate a three-way combination of the input model and use them to test your vending machine program. To do this, you will use the outputs of the 3-way combinations to write your unit test code. 
-  ..*	What was the rationale behind your input model?
+  1.	Generate a three-way combination of the input model and use them to test your vending machine program. To do this, you will use the outputs of the 3-way combinations to write your unit test code. 
+  2.	What was the rationale behind your input model?
 3.	Repeat the Step 1 Statement coverage and Step 2 branch coverage with the updated test suite.
-  ..*	How has the coverage changed?
-  ..*	Write a reflection writeup of what you have observed in this exercise?
-  ..*	What do you think are the strengths and weaknesses of selecting test cases based on statement coverage vs. mutation score vs. combinatorial approach?
-  ..*	Can you discuss the costs associated with each of the approaches? 
+  1. How has the coverage changed?
+  2.	Write a reflection writeup of what you have observed in this exercise?
+  3.	What do you think are the strengths and weaknesses of selecting test cases based on statement coverage vs. mutation score vs. combinatorial approach?
+  4.	Can you discuss the costs associated with each of the approaches? 
